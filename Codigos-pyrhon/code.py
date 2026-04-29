@@ -1,3 +1,4 @@
-print('Hello, World!')
+word = ('hello world!')
 
 
+print(word)
