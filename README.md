@@ -1,2 +1,2 @@
 # Aprendendo-Python
-    Repositorio para aprender python!
+    Repositório para aprender python!
